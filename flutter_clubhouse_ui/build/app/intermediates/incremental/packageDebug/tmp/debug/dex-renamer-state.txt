@@ -1,4 +1,0 @@
-#Thu Sep 02 14:04:40 GMT+04:00 2021
-base.0=E\:\\flutter_src\\club_house_clone\\flutter_clubhouse_ui\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
